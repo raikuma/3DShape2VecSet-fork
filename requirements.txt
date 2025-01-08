@@ -6,5 +6,8 @@ PyMCubes
 trimesh
 scipy
 einops
+tensorboardX
 # torch
+# torchvision
 timm
+torch-cluster

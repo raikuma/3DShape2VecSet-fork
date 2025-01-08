@@ -2,7 +2,7 @@ pyyaml
 pillow
 h5py
 tqdm
-mcubes
+PyMCubes
 trimesh
 scipy
 einops
